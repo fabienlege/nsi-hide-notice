@@ -1,0 +1,14 @@
+{
+    "name": "fabienlege/nsi-hide-notice",
+    "description": "Masque les notices innutiles dans le backoffice wordpress",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien LEGE",
+            "email": "fabien.lege@ho5group.com"
+        }
+    ],
+    "require": {}
+}
+
